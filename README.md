@@ -5,7 +5,7 @@
 - 🏡 I’m currently working at [NFQ Asia](https://www.nfq.asia/) // [Shopware](https://www.shopware.com/en/)
 - 🌳 I’m currently learning [VueJS](https://vuejs.org/) & [JAM stack](https://jamstack.org/)
 - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.sketch`
-- 🌍 I'm mostly active within the (Google Developer Mientrung)[https://gdgmientrung.com/] and [Laravue](https://github.com/tuandm/laravue)
+- 🌍 I'm mostly active within the [Google Developer Mientrung](https://gdgmientrung.com/) and [Laravue](https://github.com/tuandm/laravue)
 - 💬 Ask me about **frontend stuff**, **UX** 
 - 📫 How to reach me: [Twitter](https://twitter.com/nguyenquangtin) [LinkedIn](https://www.linkedin.com/in/tonytinnguyen/) [Facebook](https://www.facebook.com/nguyenquangtin)
 - ⚡ Fun fact: We have a developer team named Cipherpols which everyone has a nickname as One Piece character. Guess what is my nickname?
