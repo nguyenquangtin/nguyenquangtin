@@ -18,5 +18,4 @@
 
 ---
 
-![alt text][cover]
-[cover]: https://raw.githubusercontent.com/nguyenquangtin/nguyenquangtin/master/banner.jpg "Quote about my life"
+![Quote](https://raw.githubusercontent.com/nguyenquangtin/nguyenquangtin/master/banner.jpg)
