@@ -10,6 +10,8 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/nguyenquangtin) [LinkedIn](https://www.linkedin.com/in/tonytinnguyen/) [Facebook](https://www.facebook.com/nguyenquangtin)
 - ⚡ Fun fact: We have a developer team named Cipherpols which everyone has a nickname as One Piece character. Guess what is my nickname?
 
+![Tony's github stats](https://github-readme-stats.vercel.app/api?username=nguyenquangtin&show_icons=true&theme=synthwave)
+
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
