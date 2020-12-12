@@ -10,7 +10,6 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/nguyenquangtin) [LinkedIn](https://www.linkedin.com/in/tonytinnguyen/) [Facebook](https://www.facebook.com/nguyenquangtin)
 - ⚡ Fun fact: We have a developer team named Cipherpols which everyone has a nickname as One Piece character. Guess what is my nickname?
 
-
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
@@ -20,4 +19,4 @@
 ---
 
 ![alt text][cover]
-[cover]: https://github.com/nguyenquangtin/nguyenquangtin/blob/master/banner.jpg "Quote about my life"
+[cover]: https://raw.githubusercontent.com/nguyenquangtin/nguyenquangtin/master/banner.jpg "Quote about my life"
