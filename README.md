@@ -11,6 +11,7 @@
 - ⚡ Fun fact: We have a developer team named Cipherpols which everyone has a nickname as One Piece character. Guess what is my nickname?
 
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
