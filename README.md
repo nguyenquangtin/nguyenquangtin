@@ -12,7 +12,7 @@
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
+<i>❝Alan Turing the father of computer science, artificial intelligence and who helped break German WW2 cyphers, committed suicide after being forced to undergo hormonal treatment for homosexuality and barred from continuing his cryptographic work.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
