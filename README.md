@@ -2,7 +2,7 @@
 
 ##### I'm a frontend developer at Danang, Vietnam.
 
-- 🏡 I’m currently working at [NFQ Asia](https://www.nfq.asia/) // [Shopware](https://www.shopware.com/en/)
+- 🏡 I’m currently working as CTO at [Ecomdy Media](https://ecomdymedia.com/) - an [TikTok Marketing Partner](https://partners.tiktok.com/partner-details/7047014454382297089/pc/en?rid=evvl6u5prse) with [case study](https://www.tiktok.com/business/en-US/inspiration/ecomdy-media?)
 - 🌳 I’m currently learning [VueJS](https://vuejs.org/), [Nuxt](https://nuxtjs.org/),[JAM stack](https://jamstack.org/), [Vue Storefront](https://www.vuestorefront.io/) and [Solana Web3](https://solana-labs.github.io/solana-web3.js/)
 - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.sketch`
 - 🌍 I'm mostly active within the [Google Developer Mientrung](https://gdgmientrung.com/) and [Laravue](https://github.com/tuandm/laravue)
