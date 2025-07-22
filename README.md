@@ -1,10 +1,20 @@
-### Xin chào /[sɨn˧˧ caːw˨˩]/ (Hi there) 👋
+h### Xin chào /[sɨn˧˧ caːw˨˩]/ (Hi there) 👋
 
 ##### I'm a frontend developer at Danang, Vietnam
 
 - 🏡 I’m currently working as CTO at [Ecomdy Media](https://ecomdymedia.com/) - an [TikTok Marketing Partner](https://partners.tiktok.com/partner-details/7047014454382297089/pc/en?rid=evvl6u5prse) with [case study](https://www.tiktok.com/business/en-US/inspiration/ecomdy-media?)
-- 🌳 I’m currently learning [VueJS](https://vuejs.org/), [Nuxt](https://nuxtjs.org/),[JAM stack](https://jamstack.org/), [Vue Storefront](https://www.vuestorefront.io/) and [Solana Web3](https://solana-labs.github.io/solana-web3.js/)
-- ⚙️ I use daily: `.ts`, `.js`, `.php`, `.html`, `.css`, `.sketch`
+- 🌳 I'm currently using
+  -  [VueJS](https://vuejs.org/) + [NextJS](https://react.dev/)
+  -  [Nuxt](https://nuxtjs.org/) + [NextJS](https://nextjs.org/)
+  -  [Vercel](https://vercel.com/) + [Netlify](https://www.netlify.com/)
+  -  [Supabase](https://supabase.com/) + [Firebase](https://firebase.google.com/)
+  -  [JAM stack](https://jamstack.org/)
+  -  [Vue Storefront](https://www.vuestorefront.io/)
+  -  [Solana Web3](https://solana-labs.github.io/solana-web3.js/),
+  -  [Wordpress](https://wordpress.org/)
+  -  [NestJS](https://nestjs.com/)
+- ⚙️ I use daily: `.ts`, `.js`, `.php`, `.html`, `.css`, `.sketch`, `figma`
+- 🛠️ [Cursor](https://cursor.com/) + [VsCode](https://code.visualstudio.com/) + [WebStorm](https://www.jetbrains.com/webstorm/)
 - 🌍 I'm mostly active within the [Google Developer Mientrung](https://gdgmientrung.com/) and [Laravue](https://github.com/tuandm/laravue)
 - 💬 Ask me about **frontend stuff**, **UX**
 - 📫 How to reach me: [Twitter](https://twitter.com/nguyenquangtin) [LinkedIn](https://www.linkedin.com/in/tonytinnguyen/) [Facebook](https://www.facebook.com/nguyenquangtin)
