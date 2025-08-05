@@ -1,6 +1,6 @@
-h### Xin chào /[sɨn˧˧ caːw˨˩]/ (Hi there) 👋
+### Xin chào /[sɨn˧˧ caːw˨˩]/ (Hi there) 👋
 
-##### I'm a frontend developer at Danang, Vietnam
+##### I'm a Software Engineer at Danang, Vietnam
 
 - 🏡 I’m currently working as CTO at [Ecomdy Media](https://ecomdymedia.com/) - an [TikTok Marketing Partner](https://partners.tiktok.com/partner-details/7047014454382297089/pc/en?rid=evvl6u5prse) with [case study](https://www.tiktok.com/business/en-US/inspiration/ecomdy-media?)
 - 🌳 I'm currently using
@@ -16,7 +16,7 @@ h### Xin chào /[sɨn˧˧ caːw˨˩]/ (Hi there) 👋
 - ⚙️ I use daily: `.ts`, `.js`, `.php`, `.html`, `.css`, `.sketch`, `figma`
 - 🛠️ [Cursor](https://cursor.com/) + [VsCode](https://code.visualstudio.com/) + [WebStorm](https://www.jetbrains.com/webstorm/)
 - 🌍 I'm mostly active within the [Google Developer Mientrung](https://gdgmientrung.com/) and [Laravue](https://github.com/tuandm/laravue)
-- 💬 Ask me about **frontend stuff**, **UX**
+- 💬 Ask me about **frontend stuff**, **UX**, **Ecommerce**
 - 📫 How to reach me: [Twitter](https://twitter.com/nguyenquangtin) [LinkedIn](https://www.linkedin.com/in/tonytinnguyen/) [Facebook](https://www.facebook.com/nguyenquangtin)
 - ⚡ Fun fact: We have a developer team named Cipherpols which everyone has a nickname as One Piece character. Guess what is my nickname?
 
