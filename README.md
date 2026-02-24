@@ -2,7 +2,7 @@
 
 ##### I'm a Software Engineer at Danang, Vietnam
 
-- 🏡 I’m currently working as CTO at [Ecomdy Media](https://ecomdymedia.com/) - an [TikTok Marketing Partner](https://partners.tiktok.com/partner-details/7047014454382297089/pc/en?rid=evvl6u5prse) with [case study](https://www.tiktok.com/business/en-US/inspiration/ecomdy-media?)
+- 🏡 I’m currently working as Head of Tech Partnership at [Ecomdy Media](https://ecomdymedia.com/) - an [TikTok Marketing Partner](https://partners.tiktok.com/partner-details/7047014454382297089/pc/en?rid=evvl6u5prse) with [case study](https://www.tiktok.com/business/en-US/inspiration/ecomdy-media?)
 - 🌳 I'm currently using
   -  [VueJS](https://vuejs.org/) + [NextJS](https://react.dev/)
   -  [Nuxt](https://nuxtjs.org/) + [NextJS](https://nextjs.org/)
